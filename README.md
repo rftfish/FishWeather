@@ -1,2 +1,2 @@
-# Fishweather
+# FishWeather
 cool windows weather app 👍
